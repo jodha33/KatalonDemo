@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f2a91d2-d0ed-4be7-864b-8f680b8fe986</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('TestData_Test2').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>1c7bfb55-7386-4159-91f2-6930dec09a9f</id>
+      <masked>false</masked>
+      <name>UrlYahoo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestData_Test2').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>9e47097c-99bc-4417-aa89-85879d808edb</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestData_Test2').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>0d4326dc-5c71-4619-9da6-7e6f493fa6b4</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestData_Test2').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>4f7e40c9-0794-400a-8758-64b1d5a47fe5</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestData_Test2').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>41aee6af-d897-4a8e-9c54-9d4a47beff50</id>
+      <masked>false</masked>
+      <name>ID</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestData_Test2').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>eacd7420-4dc8-4868-82be-f616ec997033</id>
+      <masked>false</masked>
+      <name>MobileNo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestData_Test2').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>f1ee8ccc-7e40-4fa3-98c6-731e37d206eb</id>
+      <masked>false</masked>
+      <name>DOB_Month</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestData_Test2').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>466242ee-0ae5-485f-b0ec-aeb491324cf5</id>
+      <masked>false</masked>
+      <name>DOB_Year</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestData_Test2').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>ffcf8094-6b7c-445c-ba06-2afd00f13d4f</id>
+      <masked>false</masked>
+      <name>DOB_DAY</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('TestData_Test2').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>c1b5d487-4fd1-4bf2-a46e-cf5c8d7a4dd8</id>
+      <masked>false</masked>
+      <name>GENDER</name>
+   </variable>
+</TestCaseEntity>

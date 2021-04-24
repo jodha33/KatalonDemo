@@ -1,0 +1,26 @@
+plugins {
+  id 'java'
+  id "com.katalon.gradle-plugin" version "0.0.7"
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  // sample dependencies
+  // rest-assured
+  // compile 'io.rest-assured:rest-assured:3.2.0'
+  // JsonPath
+  // compile 'io.rest-assured:json-path:3.2.0'
+  // XmlPath
+  // compile 'io.rest-assured:json-path:3.2.0'
+  // JSON Schema Validation
+  // compile 'io.rest-assured:json-schema-validator:3.2.0'
+  
+  // https://mvnrepository.com/artifact/com.relevantcodes/extentreports
+	compile group: 'com.relevantcodes', name: 'extentreports', version: '2.40.2'
+
+// https://mvnrepository.com/artifact/com.aventstack/extentreports
+	compile group: 'com.aventstack', name: 'extentreports', version: '4.0.9'
+}
