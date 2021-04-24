@@ -26,7 +26,7 @@
    <testCaseLink>
       <guid>22ba4931-8371-4b96-9156-344f7819d94e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Old/TestCase6</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
